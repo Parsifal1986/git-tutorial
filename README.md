@@ -20,5 +20,7 @@ int main()
 
 ## ***lets have some fun!***  
 
-- [x] kdjflaskjdf
-- [ ] kdjfalskdjf
+- [x] kdjflaskjdf  
+- [ ] kdjfalskdjf  
+- [ ] 记得找一个女朋友  
+- fix-B  
